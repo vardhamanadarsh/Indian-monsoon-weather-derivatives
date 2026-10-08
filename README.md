@@ -1,4 +1,4 @@
-# # Rainfall Weather Derivatives: Stochastic Modelling and Extreme Risk Analysis
+# Rainfall Weather Derivatives: Stochastic Modelling and Extreme Risk Analysis
 
 ## Overview
 
